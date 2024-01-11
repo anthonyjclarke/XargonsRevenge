@@ -6,6 +6,8 @@ Source code to the original C16/+4 game
 
 A full copy of the Disk found a few years ago, still work to do to understand how to recompile.  And what many of the files are for! I must have had a templated framework I used for all my C16 games!
 
+![Uploading image.png…]()
+
 My recollection was that this was developed on a C64 with a 1541 diskette drive and then compiled and the diskette moved over to a 1541 attached to the C16 and run from there.
 
 Code is shared for non-commercial use and historical purposes only
